@@ -133,21 +133,6 @@ http://localhost:5000
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-(Add Screenshot Here)
-
-### Property Listings
-(Add Screenshot Here)
-
-### Booking Page
-(Add Screenshot Here)
-
-### Dashboard
-(Add Screenshot Here)
-
----
 
 ## 🎯 Future Enhancements
 
